@@ -11,7 +11,8 @@ the README is left untouched and the script exits 0 with a warning.
 Environment:
   TG_CHANNEL   channel username            (default: startupbaseuz)
   TG_LIMIT     number of posts to show      (default: 5)
-  TG_LANG      "en" to prefer English titles, "any" to take posts as they come
+  TG_LANG      "en": when a post (or its twin post) has an English headline, show it;
+               "any": always show the post's first headline
   README_PATH  file to update               (default: README.md)
   TG_HTML_FILE read this file instead of fetching (for local tests)
 """
@@ -71,7 +72,7 @@ class ChannelParser(HTMLParser):
         cls = a.get("class") or ""
         if self.msg is None:
             if tag == "div" and "data-post" in a and re.search(r"\btgme_widget_message\b", cls):
-                self.msg = {"post": a["data-post"], "segments": None, "dt": None,
+                self.msg = {"post": a["data-post"], "segments": None, "dt": None, "hrefs": [],
                             "service": "service_message" in cls}
                 self.depth = 1
             return
@@ -80,6 +81,7 @@ class ChannelParser(HTMLParser):
             if "tgme_widget_message_text" in cls and "js-message_text" in cls:
                 # the last text block of a post is its own text (earlier ones may be quotes)
                 self.msg["segments"] = []
+                self.msg["hrefs"] = []
                 self.text_depth = self.depth
                 self.inline = []
             return
@@ -88,7 +90,7 @@ class ChannelParser(HTMLParser):
         if self.text_depth is None:
             return
         if tag == "br":
-            self.msg["segments"].append(("\n", False))
+            self.msg["segments"].append(("\n", False, False))
             return
         if tag in self.VOID:
             return
@@ -96,6 +98,10 @@ class ChannelParser(HTMLParser):
             kind = "emoji"
         elif tag in ("b", "strong"):
             kind = "bold"
+        elif tag == "a":
+            kind = "link"
+            if a.get("href"):
+                self.msg["hrefs"].append(a["href"])
         else:
             kind = "other"
         self.inline.append((tag, kind))
@@ -123,43 +129,47 @@ class ChannelParser(HTMLParser):
             return
         kinds = [k for _, k in self.inline]
         bold = "bold" in kinds and "emoji" not in kinds
-        self.msg["segments"].append((data, bold))
+        self.msg["segments"].append((data, bold, "link" in kinds))
 
 
 LETTER = re.compile(r"[^\W\d_]", re.UNICODE)
-UZ_APOSTROPHE = re.compile(r"[oOgG][\u02bb\u2018\u2019'`]")
-UZ_WORDS = set("""va bilan uchun kuni yil yili tomonidan startap startaplar startapi startaplarni dasturi
-dasturida dasturlari uchrashuv uchrashuvi natijalari haqida mavjud batafsil saytimizda loyiha loyihalar
-asoschisi asoschilari sessiyasi sessiyalari tashkil etildi etiladi imkoniyat imkoniyatlari mintaqaviy
-bosqichida hamkorlik hamkorlikni davom tadbir tadbiri tanlov tanlovi ariza arizalar qabul yangi
-ishtirok ishtirokchilari bo'yicha bo‘yicha boʻyicha o'tkazildi o‘tkazildi oʻtkazildi""".split())
-EN_WORDS = set("""the and for with of to in on from your is are will a an at by how new meet our this
-that into across about join who what why its their be has have""".split())
+WORD = re.compile(r"[^\W_][\w\u02bb\u2018\u2019'’-]*", re.UNICODE)
+HASHTAG = re.compile(r"#[\w\u02bb\u2018\u2019'’]+", re.UNICODE)
+UZ_APOSTROPHE = re.compile(r"[oOgG][\u02bb\u2018\u2019'`’]")
+UZ_WORDS = set("""va bilan uchun kuni yil yili tomonidan haqida mavjud batafsil yangi bugun eslatma
+uchrashuv natijalari ishtirok tadbir tanlov ariza qabul bormi qanday nega nima nimalar""".split())
+UZ_SUFFIXES = ("lar", "lari", "larni", "ning", "dagi", "moqda", "ilgan", "lgan", "ini", "idan",
+               "likni", "ligi", "lardan", "larga", "mizda", "ingiz")
+EN_WORDS = set("""the and for with of to in on from your is are will a an at by how what who why new
+meet our this that into across about join its their be has have wins now""".split())
 
 
-def language(text):
+def words(text):
+    return WORD.findall(text)
+
+
+def is_english(text):
+    """Positive evidence only: English function words and no Uzbek markers."""
     letters = LETTER.findall(text)
-    if not letters:
-        return "unknown"
-    cyr = sum(1 for ch in letters if "\u0400" <= ch <= "\u04ff")
-    if cyr / len(letters) > 0.3:
-        return "cyrillic"
-    words = re.findall(r"[a-z\u02bb\u2018\u2019']+", text.lower())
-    uz = sum(w in UZ_WORDS for w in words) + 2 * len(UZ_APOSTROPHE.findall(text))
-    en = sum(w in EN_WORDS for w in words)
-    return "uz" if uz > en else "en"
+    if not letters or sum(1 for ch in letters if "\u0400" <= ch <= "\u04ff") / len(letters) > 0.3:
+        return False
+    ws = [w.lower() for w in words(text)]
+    uz = 2 * len(UZ_APOSTROPHE.findall(text)) + sum(w in UZ_WORDS for w in ws)
+    uz += sum(1 for w in ws if len(w) > 4 and w.endswith(UZ_SUFFIXES))
+    en = sum(w in EN_WORDS for w in ws) + sum(1 for w in words(text) if w.islower() and "w" in w)
+    return en >= 1 and uz == 0
 
 
 def lines_of(segments):
     lines, cur = [], []
-    for text, bold in segments:
+    for text, bold, link in segments:
         parts = text.split("\n")
         for i, p in enumerate(parts):
             if i:
                 lines.append(cur)
                 cur = []
             if p:
-                cur.append((p, bold))
+                cur.append((p, bold, link))
     lines.append(cur)
     return lines
 
@@ -169,23 +179,45 @@ def clean(s):
     return s.strip(" :—-–|")
 
 
-def title_candidates(segments):
-    """Lines that are (mostly) bold: how this channel writes its headlines."""
+def strip_hashtags(text):
+    """'📰 #News: Headline' -> '📰 Headline'; rubric-only lines become empty."""
+    t = HASHTAG.sub("", text)
+    lead = re.match(r"^[^\w]*", t).group(0)
+    rest = t[len(lead):]
+    lead = re.sub(r"[:|–—-]", "", lead)
+    return clean(lead + rest)
+
+
+def headlines(segments):
+    """Bold lines, the way this channel writes headlines; skips link rows
+    ('LinkedIn | Facebook | ...', 'Read more...') and rubric hashtags."""
     out = []
     for line in lines_of(segments):
-        text = clean("".join(t for t, _ in line))
+        text = "".join(t for t, _, _ in line)
         total = len(LETTER.findall(text))
-        boldl = len(LETTER.findall("".join(t for t, b in line if b)))
-        if total >= 12 and boldl / total >= 0.6:
-            out.append(text)
+        if not total:
+            continue
+        linked = len(LETTER.findall("".join(t for t, _, l in line if l)))
+        bold = len(LETTER.findall("".join(t for t, b, _ in line if b)))
+        if linked / total >= 0.5 or bold / total < 0.6:
+            continue
+        t = strip_hashtags(text)
+        if len(words(t)) >= 3 and len(LETTER.findall(t)) >= 15:
+            out.append(t)
     return out
 
 
-def first_line(segments):
-    for line in lines_of(segments):
-        text = clean("".join(t for t, _ in line))
-        if len(LETTER.findall(text)) >= 12:
-            return text
+def page_key(hrefs):
+    """Same startupbase.uz page in two languages -> the posts are twins."""
+    for h in hrefs:
+        m = re.match(r"https?://(?:www\.)?startupbase\.uz/([^?#]*)", h)
+        if not m:
+            continue
+        parts = [x for x in m.group(1).split("/") if x]
+        if parts and parts[0] in ("uz", "en", "ru", "oz"):
+            parts = parts[1:]
+        if len(parts) >= 2:
+            return "/".join(parts)
     return None
 
 
@@ -204,27 +236,30 @@ def md_escape(s):
 
 
 def pick(posts):
-    items, seen = [], set()
+    items, by_key, seen = [], {}, set()
     for p in sorted(posts, key=lambda p: int(p["post"].rsplit("/", 1)[-1]), reverse=True):
         if p["service"] or not p["segments"] or not p["dt"]:
             continue
-        cands = title_candidates(p["segments"])
-        en = [c for c in cands if language(c) == "en"]
-        fallback = first_line(p["segments"])
-        title_en = en[0] if en else (fallback if fallback and language(fallback) == "en" else None)
-        title_any = cands[0] if cands else fallback
-        if not title_any:
+        heads = headlines(p["segments"])
+        if not heads:
+            continue  # no headline (digests of links, dictionary cards, media-only)
+        title = heads[0]
+        if PREFER == "en":
+            title = next((h for h in heads if is_english(h)), title)
+        item = {"post": p["post"], "dt": p["dt"], "title": title, "en": is_english(title)}
+        key = page_key(p.get("hrefs", []))
+        if key and key in by_key:
+            twin = by_key[key]
+            if PREFER == "en" and item["en"] and not twin["en"]:
+                twin.update(title=item["title"], post=item["post"], en=True)
             continue
-        key = (title_en or title_any).lower()
-        if key in seen:
+        if title.lower() in seen:
             continue
-        seen.add(key)
-        items.append({"post": p["post"], "dt": p["dt"], "en": title_en, "any": title_any})
-    if PREFER == "en":
-        english = [dict(i, title=i["en"]) for i in items if i["en"]]
-        if len(english) >= min(LIMIT, 3):
-            return english[:LIMIT]
-    return [dict(i, title=i["en"] or i["any"]) for i in items][:LIMIT]
+        seen.add(title.lower())
+        if key:
+            by_key[key] = item
+        items.append(item)
+    return items[:LIMIT]
 
 
 def render(items):
