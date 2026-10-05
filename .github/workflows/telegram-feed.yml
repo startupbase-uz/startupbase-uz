@@ -1,0 +1,45 @@
+name: Telegram feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours (05:17, 11:17, 17:17, 23:17 Tashkent)
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/update_telegram.py
+      - .github/workflows/telegram-feed.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh the feed in README.md
+        run: python3 scripts/update_telegram.py
+        env:
+          TG_CHANNEL: startupbaseuz
+          TG_LIMIT: "5"
+          TG_LANG: en          # "any" to show posts in every language
+
+      - name: Commit if the feed changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Feed unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh Telegram feed"
+          git push
