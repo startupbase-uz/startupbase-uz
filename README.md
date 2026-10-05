@@ -1,6 +1,6 @@
-<a href="https://startupbase.uz/en">
-  <img src="assets/header.svg" width="100%" alt="StartupBase: platform helping founders build, validate, and scale successful startups. Powered by IT Park Uzbekistan.">
-</a>
+<p>
+  <a href="https://startupbase.uz/en"><img src="assets/header.svg" width="100%" alt="StartupBase: platform helping founders build, validate, and scale successful startups. Powered by IT Park Uzbekistan."></a>
+</p>
 
 <p align="center">
   <a href="https://startupbase.uz/en"><img src="assets/link-website.svg" height="40" alt="startupbase.uz"></a>
@@ -21,13 +21,13 @@ StartupBase brings together promising startups, their founders, partners and inv
   <a href="https://startupbase.uz/en/resources?tab=partner"><img src="assets/tile-partners.svg" width="49%" alt="Partners: share resources, experience and opportunities to grow the ecosystem."></a>
 </p>
 
-<a href="https://startupbase.uz/en/digital-startups-program">
-  <img src="assets/dsp.svg" width="100%" alt="Digital Startups Program: $50M for promising tech startups. Up to $100K from the Government to double your private investment, up to 50% of international incubator and accelerator costs, up to $50K for accelerators and incubators to bring in mentors, 100% reimbursement for patenting and IP registration, IT Visa, regulatory sandbox. Apply on startupbase.uz.">
-</a>
+<p>
+  <a href="https://startupbase.uz/en/digital-startups-program"><img src="assets/dsp.svg" width="100%" alt="Digital Startups Program: $50M for promising tech startups. Up to $100K from the Government to double your private investment, up to 50% of international incubator and accelerator costs, up to $50K for accelerators and incubators to bring in mentors, 100% reimbursement for patenting and IP registration, IT Visa, regulatory sandbox. Apply on startupbase.uz."></a>
+</p>
 
-<a href="https://t.me/startupbaseuz">
-  <img src="assets/telegram.svg" width="100%" alt="Latest from Telegram, refreshed automatically from t.me/startupbaseuz">
-</a>
+<p>
+  <a href="https://t.me/startupbaseuz"><img src="assets/telegram.svg" width="100%" alt="Latest from Telegram, refreshed automatically from t.me/startupbaseuz"></a>
+</p>
 
 <!-- TELEGRAM:START -->
 - `03 Oct` [🇵🇹 Digital Uzbekistan – Web Summit: Open Call for Startups Seeking to Enter the European Market](https://t.me/startupbaseuz/9172)
