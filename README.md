@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `05 Oct` [Keyingi qadam — uni kengroq, global auditoriyaga tanishtirish.](https://t.me/startupbaseuz/9174)
+- `05 Oct` [🎓 Maktab o‘quvchilari uchun “Digital Marketing va Startup” o‘quv seminarlari yakunlandi!](https://t.me/startupbaseuz/9173)
 - `03 Oct` [🇵🇹 Digital Uzbekistan – Web Summit: Open Call for Startups Seeking to Enter the European Market](https://t.me/startupbaseuz/9172)
 - `02 Oct` [📰 O‘zbekiston va jahon texnologiyalar olamida nimalar bo‘lyapti?](https://t.me/startupbaseuz/9170)
 - `02 Oct` [💻 “IT-mahsulot menga qanday qilib pul olib keladi?”](https://t.me/startupbaseuz/9169)
-- `02 Oct` [🤝 Founder mindset, smart kapital va AI davridagi jamoalar: xalqaro ekspertlar bilan vorkshop bo‘lib o‘tdi](https://t.me/startupbaseuz/9162)
-- `02 Oct` [🤝 Verifix va EasyTap Markaziy Osiyoda yagona raqamli mehnat infratuzilmasini yaratish uchun hamkorlik qiladi](https://t.me/startupbaseuz/9161)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
