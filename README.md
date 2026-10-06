@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `06 Oct` [🤔 MVP tayyor. Endi uni qanday sinab ko‘rish va rivojlantirish mumkin?](https://t.me/startupbaseuz/9185)
 - `06 Oct` [Дунёнинг энг йирик космос тадбири - Халқаро астронавтика конгрессининг очилиш маросимида Ал-Хоразмий, Ал-Беруний…](https://t.me/startupbaseuz/9184)
 - `06 Oct` [🇰🇿 Digital Bridge 2026: o‘zbek kompaniyalari Ostonadan qanday imkoniyatlar bilan qaytdi?](https://t.me/startupbaseuz/9177)
 - `06 Oct` [🇺🇿 O‘zbekiston bo‘ylab 5 hududda 1 oylik intensiv Inkubatsiya dasturi boshlanmoqda](https://t.me/startupbaseuz/9176)
 - `05 Oct` [Keyingi qadam — uni kengroq, global auditoriyaga tanishtirish.](https://t.me/startupbaseuz/9174)
-- `05 Oct` [🎓 Maktab o‘quvchilari uchun “Digital Marketing va Startup” o‘quv seminarlari yakunlandi!](https://t.me/startupbaseuz/9173)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
