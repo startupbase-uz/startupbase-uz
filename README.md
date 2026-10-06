@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `06 Oct` [🇺🇿 O‘zbekiston bo‘ylab 5 hududda 1 oylik intensiv Inkubatsiya dasturi boshlanmoqda](https://t.me/startupbaseuz/9176)
 - `05 Oct` [Keyingi qadam — uni kengroq, global auditoriyaga tanishtirish.](https://t.me/startupbaseuz/9174)
 - `05 Oct` [🎓 Maktab o‘quvchilari uchun “Digital Marketing va Startup” o‘quv seminarlari yakunlandi!](https://t.me/startupbaseuz/9173)
 - `03 Oct` [🇵🇹 Digital Uzbekistan – Web Summit: Open Call for Startups Seeking to Enter the European Market](https://t.me/startupbaseuz/9172)
 - `02 Oct` [📰 O‘zbekiston va jahon texnologiyalar olamida nimalar bo‘lyapti?](https://t.me/startupbaseuz/9170)
-- `02 Oct` [💻 “IT-mahsulot menga qanday qilib pul olib keladi?”](https://t.me/startupbaseuz/9169)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
