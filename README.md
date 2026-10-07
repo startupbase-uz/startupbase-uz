@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `07 Oct` [🚀 Gonkong va Xitoy bozoriga chiqing: AI-startaplar uchun Cyberport Global Landing Programme](https://t.me/startupbaseuz/9193)
+- `07 Oct` [🇨🇳 AI-startapingiz bilan Xitoyga chiqing: xalqaro ta’lim dasturiga Open Call](https://t.me/startupbaseuz/9192)
 - `07 Oct` [💰 Bigmart $500 ming investitsiya jalb qildi](https://t.me/startupbaseuz/9191)
 - `06 Oct` [🤔 MVP tayyor. Endi uni qanday sinab ko‘rish va rivojlantirish mumkin?](https://t.me/startupbaseuz/9185)
 - `06 Oct` [Дунёнинг энг йирик космос тадбири - Халқаро астронавтика конгрессининг очилиш маросимида Ал-Хоразмий, Ал-Беруний…](https://t.me/startupbaseuz/9184)
-- `06 Oct` [🇰🇿 Digital Bridge 2026: o‘zbek kompaniyalari Ostonadan qanday imkoniyatlar bilan qaytdi?](https://t.me/startupbaseuz/9177)
-- `06 Oct` [🇺🇿 O‘zbekiston bo‘ylab 5 hududda 1 oylik intensiv Inkubatsiya dasturi boshlanmoqda](https://t.me/startupbaseuz/9176)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
