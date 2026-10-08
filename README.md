@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `08 Oct` [🎙 Startup Pitch’gacha atigi 4 kun qoldi!](https://t.me/startupbaseuz/9203)
+- `08 Oct` [ℹ️ G‘oyadan global startapgacha: founderlar qanday yo‘l bosib o‘tadi?](https://t.me/startupbaseuz/9202)
+- `08 Oct` [🏆 IT Park Uzbekistan vakili bo‘lgan 10 ta kompaniyaga ASOCIO Digital & AI Awards 2026 mukofotlari topshirildi](https://t.me/startupbaseuz/9195)
+- `08 Oct` [🇵🇹 Digital Uzbekistan – Web Summit: ariza topshirish uchun 2 kun qoldi!](https://t.me/startupbaseuz/9194)
 - `07 Oct` [🚀 Gonkong va Xitoy bozoriga chiqing: AI-startaplar uchun Cyberport Global Landing Programme](https://t.me/startupbaseuz/9193)
-- `07 Oct` [🇨🇳 AI-startapingiz bilan Xitoyga chiqing: xalqaro ta’lim dasturiga Open Call](https://t.me/startupbaseuz/9192)
-- `07 Oct` [💰 Bigmart $500 ming investitsiya jalb qildi](https://t.me/startupbaseuz/9191)
-- `06 Oct` [🤔 MVP tayyor. Endi uni qanday sinab ko‘rish va rivojlantirish mumkin?](https://t.me/startupbaseuz/9185)
-- `06 Oct` [Дунёнинг энг йирик космос тадбири - Халқаро астронавтика конгрессининг очилиш маросимида Ал-Хоразмий, Ал-Беруний…](https://t.me/startupbaseuz/9184)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
