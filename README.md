@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `08 Oct` [❗️ Founderlar va startaplar diqqatiga: Startaplar rivojlanishi uchun qulay huquqiy muhit qanday bo‘lishi kerak?](https://t.me/startupbaseuz/9204)
 - `08 Oct` [🎙 Startup Pitch’gacha atigi 4 kun qoldi!](https://t.me/startupbaseuz/9203)
 - `08 Oct` [ℹ️ G‘oyadan global startapgacha: founderlar qanday yo‘l bosib o‘tadi?](https://t.me/startupbaseuz/9202)
 - `08 Oct` [🏆 IT Park Uzbekistan vakili bo‘lgan 10 ta kompaniyaga ASOCIO Digital & AI Awards 2026 mukofotlari topshirildi](https://t.me/startupbaseuz/9195)
 - `08 Oct` [🇵🇹 Digital Uzbekistan – Web Summit: ariza topshirish uchun 2 kun qoldi!](https://t.me/startupbaseuz/9194)
-- `07 Oct` [🚀 Gonkong va Xitoy bozoriga chiqing: AI-startaplar uchun Cyberport Global Landing Programme](https://t.me/startupbaseuz/9193)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
