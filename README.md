@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `09 Oct` [🇺🇸 15 ta o‘zbek startapi — AQSh bozori sari](https://t.me/startupbaseuz/9227)
+- `09 Oct` [🌐 O‘zbekiston startap ekotizimi: keyingi bosqich nimaga bog‘liq?](https://t.me/startupbaseuz/9226)
 - `09 Oct` [🇮🇩 Digital Uzbekistan: Indonesia 2026 — O‘zbekiston startaplari Indoneziya bozorida yangi hamkorliklarni yo‘lga…](https://t.me/startupbaseuz/9220)
 - `09 Oct` [🇹🇲 IT Park rezidentlari va startaplari uchun Turkmaniston bozoriga chiqish imkoniyatlari muhokama qilindi](https://t.me/startupbaseuz/9216)
 - `09 Oct` [🚀 Andijonlik yoshlar startaplariga investitsiya jalb qilishni o‘rgandi](https://t.me/startupbaseuz/9206)
-- `09 Oct` [🇬🇪 Fintech Hackathon 2026: $7700 mukofot va Singapurga sayohat imkoniyati](https://t.me/startupbaseuz/9205)
-- `08 Oct` [❗️ Founderlar va startaplar diqqatiga: Startaplar rivojlanishi uchun qulay huquqiy muhit qanday bo‘lishi kerak?](https://t.me/startupbaseuz/9204)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
