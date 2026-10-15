@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `15 Oct` [💡 «Lekin bunday startap allaqachon bor-ku…»](https://t.me/startupbaseuz/9243)
+- `15 Oct` [🌱 Agrobank bilan pilot loyihani ishga tushirish va $500 000 gacha investitsiya jalb qilish imkoniyati!](https://t.me/startupbaseuz/9242)
+- `15 Oct` [❓ “Are your unit economics sustainable?”](https://t.me/startupbaseuz/9241)
 - `14 Oct` [📣 BEYOND Accelerator: mahsulot va daromaddan — investitsiya va masshtablashgacha](https://t.me/startupbaseuz/9239)
 - `13 Oct` [🎮 O‘zbekistonda yaratilgan 30+ o‘yinni bir joyda sinab ko‘rishga tayyormisiz?](https://t.me/startupbaseuz/9238)
-- `12 Oct` [⚡️ Bootcamp intensiv dasturining Customer Validation yo‘nalishiga ro‘yxatdan o‘tish boshlandi!](https://t.me/startupbaseuz/9237)
-- `12 Oct` [⚡️ President Tech Award 2026: “Best Startup Project” yo‘nalishi bo‘yicha muhim yangilik!](https://t.me/startupbaseuz/9236)
-- `12 Oct` [🇺🇿 O‘zbekiston robototexnika bo‘yicha 185 davlat orasida mutlaq chempion bo‘ldi!](https://t.me/startupbaseuz/9235)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
