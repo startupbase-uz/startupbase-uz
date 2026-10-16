@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `16 Oct` [🇹🇷 Digital Uzbekistan: Turkiya bozoriga chiqmoqchi bo‘lgan IT-kompaniyalar uchun Open Call!](https://t.me/startupbaseuz/9252)
 - `15 Oct` [☁️ Alibaba Cloud: startapingiz uchun AI tokenlar va bulutli xizmatlar kreditlari kerakmi?](https://t.me/startupbaseuz/9251)
 - `15 Oct` [⚡️ Bootcamp intensiv dasturining Go-to-Market yo‘nalishiga ro‘yxatdan o‘tish boshlandi!](https://t.me/startupbaseuz/9249)
 - `15 Oct` [💡 «Lekin bunday startap allaqachon bor-ku…»](https://t.me/startupbaseuz/9243)
 - `15 Oct` [🌱 Agrobank bilan pilot loyihani ishga tushirish va $500 000 gacha investitsiya jalb qilish imkoniyati!](https://t.me/startupbaseuz/9242)
-- `15 Oct` [❓ “Are your unit economics sustainable?”](https://t.me/startupbaseuz/9241)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
