@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `19 Oct` [🚀 Y Combinator’dan $500 000 investitsiya olish imkoniyati: Winter 2027 uchun arizalar ochildi!](https://t.me/startupbaseuz/9271)
+- `19 Oct` [🎮 GameDev studiyalar uchun xalqaro imkoniyat: Firstpoint Boost Central Asia dasturiga arizalar qabul qilinmoqda!](https://t.me/startupbaseuz/9270)
+- `19 Oct` [🚀 Shanxay, Shenchjen va Gongkongda 8 haftalik akseleratsiya: startaplar uchun Open Call!](https://t.me/startupbaseuz/9264)
 - `19 Oct` [🇰🇪 Digital Uzbekistan: Kenya — Keniya bozoriga chiqmoqchi bo‘lgan dasturiy mahsulotlar uchun Open Call!](https://t.me/startupbaseuz/9257)
 - `17 Oct` [🇫🇮 O‘zbekiston startaplari uchun Slush 2026 konferensiyasida bepul qatnashish imkoniyati!](https://t.me/startupbaseuz/9255)
-- `16 Oct` [📰 O‘zbekiston va jahon texnologiyalar olamida nimalar bo‘lyapti?](https://t.me/startupbaseuz/9254)
-- `16 Oct` [🇹🇷 Digital Uzbekistan: Turkiya bozoriga chiqmoqchi bo‘lgan IT-kompaniyalar uchun Open Call!](https://t.me/startupbaseuz/9252)
-- `15 Oct` [☁️ Alibaba Cloud: startapingiz uchun AI tokenlar va bulutli xizmatlar kreditlari kerakmi?](https://t.me/startupbaseuz/9251)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
