@@ -30,7 +30,7 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
-- `19 Oct` [🚀 Y Combinator’dan $500 000 investitsiya olish imkoniyati: Winter 2027 uchun arizalar ochildi!](https://t.me/startupbaseuz/9271)
+- `19 Oct` [⚡️ Silikon vodiysi. Xalqaro aloqalar. Katta maqsadlar](https://t.me/startupbaseuz/9271)
 - `19 Oct` [🎮 GameDev studiyalar uchun xalqaro imkoniyat: Firstpoint Boost Central Asia dasturiga arizalar qabul qilinmoqda!](https://t.me/startupbaseuz/9270)
 - `19 Oct` [🚀 Shanxay, Shenchjen va Gongkongda 8 haftalik akseleratsiya: startaplar uchun Open Call!](https://t.me/startupbaseuz/9264)
 - `19 Oct` [🇰🇪 Digital Uzbekistan: Kenya — Keniya bozoriga chiqmoqchi bo‘lgan dasturiy mahsulotlar uchun Open Call!](https://t.me/startupbaseuz/9257)
