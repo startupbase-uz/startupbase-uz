@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `21 Oct` [🇦🇿 Boku sari yo‘l: startapingizni InMerge Innovation Summit 2026’da namoyish eting!](https://t.me/startupbaseuz/9274)
 - `21 Oct` [Startap yaratish uchun dasturchi bo‘lish shartmi?](https://t.me/startupbaseuz/9273)
 - `20 Oct` [⚡️ Bootcamp intensiv dasturining Product & Unit Economics yo‘nalishiga ro‘yxatdan o‘tish boshlandi!](https://t.me/startupbaseuz/9272)
 - `19 Oct` [⚡️ Silikon vodiysi. Xalqaro aloqalar. Katta maqsadlar](https://t.me/startupbaseuz/9271)
 - `19 Oct` [🎮 GameDev studiyalar uchun xalqaro imkoniyat: Firstpoint Boost Central Asia dasturiga arizalar qabul qilinmoqda!](https://t.me/startupbaseuz/9270)
-- `19 Oct` [🚀 Shanxay, Shenchjen va Gongkongda 8 haftalik akseleratsiya: startaplar uchun Open Call!](https://t.me/startupbaseuz/9264)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
