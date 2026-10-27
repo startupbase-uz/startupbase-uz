@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `27 Oct` [🇴🇲 Digital Uzbekistan: Oman — Ummon bozoriga chiqmoqchi bo‘lgan IT kompaniyalar uchun Open Call!](https://t.me/startupbaseuz/9292)
 - `27 Oct` [💡 Tally va Senja örtasidagi farq](https://t.me/startupbaseuz/9291)
 - `26 Oct` [🌠 Özbekiston startaplari global innovatsiya tarmoqlariga qanday ulanmoqda?](https://t.me/startupbaseuz/9290)
 - `26 Oct` [Ammo ilk versiyaga nimalarni qöşish kerak?](https://t.me/startupbaseuz/9284)
 - `24 Oct` [Startapingiz uchun foydali ilovalar — barchasi bir joyda!](https://t.me/startupbaseuz/9282)
-- `23 Oct` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9281)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
