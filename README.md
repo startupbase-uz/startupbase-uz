@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `30 Oct` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9303)
+- `30 Oct` [⚡️ Delever startapi $380 000 investitsiya jalb qildi!](https://t.me/startupbaseuz/9302)
 - `30 Oct` [ℹ️ Startap loyihangizni ilk sotuvlarga olib çiqmoqçimisiz?](https://t.me/startupbaseuz/9301)
 - `30 Oct` [CAC (Customer Acquisition Cost)](https://t.me/startupbaseuz/9300)
 - `29 Oct` [📝 Notion for Startups — 6 oy bepul](https://t.me/startupbaseuz/9299)
-- `29 Oct` [🚀 StartupBase endi stikerlarda ham!](https://t.me/startupbaseuz/9297)
-- `29 Oct` [🤔Yaxşi mahsulot özini özi sotadimi?](https://t.me/startupbaseuz/9296)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
