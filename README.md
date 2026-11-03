@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `03 Nov` [⚖️ Huquqiy muammolarga texnologik yeçim topib, 60 million sömgacha yutib olişga tayyormisiz?](https://t.me/startupbaseuz/9311)
+- `03 Nov` [⚡️ Özbekistonda umumiy mukofot jamğarmasi 5 million dollarlik xalqaro startaplar tanlovi yölga qöyiladi](https://t.me/startupbaseuz/9308)
 - `02 Nov` [💡 Framer va Lovable örtasidagi farq](https://t.me/startupbaseuz/9306)
 - `02 Nov` [⚡️ Startapingizni yangi bozorlarga olib çiqiş va rivojlantiriş uçun investitsiya jalb qilmoqçimisiz?](https://t.me/startupbaseuz/9304)
 - `30 Oct` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9303)
-- `30 Oct` [⚡️ Delever startapi $380 000 investitsiya jalb qildi!](https://t.me/startupbaseuz/9302)
-- `30 Oct` [ℹ️ Startap loyihangizni ilk sotuvlarga olib çiqmoqçimisiz?](https://t.me/startupbaseuz/9301)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
