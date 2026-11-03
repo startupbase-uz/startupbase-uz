@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `03 Nov` [🇦🇿 NEXUS Soft-Landing — Ozarbayjonda biznesni yölga qöyiş va rivojlantirişda amaliy kömak](https://t.me/startupbaseuz/9313)
 - `03 Nov` [⚖️ Huquqiy muammolarga texnologik yeçim topib, 60 million sömgacha yutib olişga tayyormisiz?](https://t.me/startupbaseuz/9311)
 - `03 Nov` [⚡️ Özbekistonda umumiy mukofot jamğarmasi 5 million dollarlik xalqaro startaplar tanlovi yölga qöyiladi](https://t.me/startupbaseuz/9308)
 - `02 Nov` [💡 Framer va Lovable örtasidagi farq](https://t.me/startupbaseuz/9306)
 - `02 Nov` [⚡️ Startapingizni yangi bozorlarga olib çiqiş va rivojlantiriş uçun investitsiya jalb qilmoqçimisiz?](https://t.me/startupbaseuz/9304)
-- `30 Oct` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9303)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
