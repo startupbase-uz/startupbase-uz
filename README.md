@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `04 Nov` [🏆 AICA AWARDS 2026 g‘oliblari e’lon qilindi!](https://t.me/startupbaseuz/9315)
 - `04 Nov` [LTV qanday hisoblanadi?](https://t.me/startupbaseuz/9314)
 - `03 Nov` [🇦🇿 NEXUS Soft-Landing — Ozarbayjonda biznesni yölga qöyiş va rivojlantirişda amaliy kömak](https://t.me/startupbaseuz/9313)
 - `03 Nov` [⚖️ Huquqiy muammolarga texnologik yeçim topib, 60 million sömgacha yutib olişga tayyormisiz?](https://t.me/startupbaseuz/9311)
 - `03 Nov` [⚡️ Özbekistonda umumiy mukofot jamğarmasi 5 million dollarlik xalqaro startaplar tanlovi yölga qöyiladi](https://t.me/startupbaseuz/9308)
-- `02 Nov` [💡 Framer va Lovable örtasidagi farq](https://t.me/startupbaseuz/9306)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
