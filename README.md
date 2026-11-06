@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `06 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9329)
+- `06 Nov` [⚡️ Clopos startapi SABAH.angels'dan sarmoya jalb qildi!](https://t.me/startupbaseuz/9328)
 - `05 Nov` [Ilovaning ilk foydalanuvçilari](https://t.me/startupbaseuz/9321)
 - `05 Nov` [🔥 Toşkent, endi ğoyalaringizni amalda sinaş vaqti!](https://t.me/startupbaseuz/9320)
 - `04 Nov` [🏆 AICA AWARDS 2026 g‘oliblari e’lon qilindi!](https://t.me/startupbaseuz/9315)
-- `04 Nov` [LTV qanday hisoblanadi?](https://t.me/startupbaseuz/9314)
-- `03 Nov` [🇦🇿 NEXUS Soft-Landing — Ozarbayjonda biznesni yölga qöyiş va rivojlantirişda amaliy kömak](https://t.me/startupbaseuz/9313)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
