@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `07 Nov` [⚡️ Defex Robotics — Özbekistondan Y Combinator’ga qabul qilingan uçinçi startap!](https://t.me/startupbaseuz/9330)
 - `06 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9329)
 - `06 Nov` [⚡️ Clopos startapi SABAH.angels'dan sarmoya jalb qildi!](https://t.me/startupbaseuz/9328)
 - `05 Nov` [Ilovaning ilk foydalanuvçilari](https://t.me/startupbaseuz/9321)
 - `05 Nov` [🔥 Toşkent, endi ğoyalaringizni amalda sinaş vaqti!](https://t.me/startupbaseuz/9320)
-- `04 Nov` [🏆 AICA AWARDS 2026 g‘oliblari e’lon qilindi!](https://t.me/startupbaseuz/9315)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
