@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `10 Nov` [🥇 President Tech Award ğoliblaridan yangi öyin — UNDERWHATER!](https://t.me/startupbaseuz/9338)
+- `10 Nov` [2027-yildan O’zbekistonda 5 million dollarlik xalqaro startaplar tanlovi o’tkaziladi](https://t.me/startupbaseuz/9337)
+- `10 Nov` [🏆 Imagine Cup 2027 — Microsoft xalqaro tanloviga arizalar qabuli oçildi!](https://t.me/startupbaseuz/9336)
 - `09 Nov` [O‘zbekistonda 5 million dollarlik xalqaro startaplar tanlovi tashkil etiladi](https://t.me/startupbaseuz/9335)
 - `09 Nov` [⚡️ Andijonlik Rashod Abdurasulov — Y Combinator’ga qabul qilindi!](https://t.me/startupbaseuz/9332)
-- `07 Nov` [⚡️ Defex Robotics — Özbekistondan Y Combinator’ga qabul qilingan uçinçi startap!](https://t.me/startupbaseuz/9330)
-- `06 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9329)
-- `06 Nov` [⚡️ Clopos startapi SABAH.angels'dan sarmoya jalb qildi!](https://t.me/startupbaseuz/9328)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
