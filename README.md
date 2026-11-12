@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `12 Nov` [🔥 Markaziy Osiyoda ilk bor — Techstars Startup Week Toşkentda!](https://t.me/startupbaseuz/9352)
+- `12 Nov` [🥇 President Tech Award iştirokçisi Logosmart’dan quvonçli yangilik](https://t.me/startupbaseuz/9349)
+- `12 Nov` [🗣Meet the SABRIYA program!](https://t.me/startupbaseuz/9341)
 - `10 Nov` [🥇 President Tech Award ğoliblaridan yangi öyin — UNDERWHATER!](https://t.me/startupbaseuz/9338)
 - `10 Nov` [2027-yildan O’zbekistonda 5 million dollarlik xalqaro startaplar tanlovi o’tkaziladi](https://t.me/startupbaseuz/9337)
-- `10 Nov` [🏆 Imagine Cup 2027 — Microsoft xalqaro tanloviga arizalar qabuli oçildi!](https://t.me/startupbaseuz/9336)
-- `09 Nov` [O‘zbekistonda 5 million dollarlik xalqaro startaplar tanlovi tashkil etiladi](https://t.me/startupbaseuz/9335)
-- `09 Nov` [⚡️ Andijonlik Rashod Abdurasulov — Y Combinator’ga qabul qilindi!](https://t.me/startupbaseuz/9332)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
