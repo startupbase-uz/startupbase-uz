@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `17 Nov` [🥇 Best Startup Project treki: keyingi bosqiçlarga tayyormisiz?](https://t.me/startupbaseuz/9361)
 - `16 Nov` [⚡️ Kontent, mijozlarga javoblar, hisobotlar — takroriy işlarni SI bilan avtomatlaştiring!](https://t.me/startupbaseuz/9359)
 - `16 Nov` [🥇 President Tech Award: «Best Startup Project» pitçga tayyorgarlik va saralaş mezonlari](https://t.me/startupbaseuz/9358)
 - `13 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9355)
 - `13 Nov` [🌍 Startapingizni xalqaro tajriba asosida rivojlantiring: Founder Institute dasturiga qabul oçiq!](https://t.me/startupbaseuz/9354)
-- `13 Nov` [🚀 Startapingizni katta auditoriyaga tanitişga tayyormisiz? Startup Alley’ga ariza topşiring!](https://t.me/startupbaseuz/9353)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
