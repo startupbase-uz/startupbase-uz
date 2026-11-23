@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `23 Nov` [🇫🇮 O‘zbekiston startaplari Slush 2026 xalqaro konferensiyasida ishtirok etdi](https://t.me/startupbaseuz/9384)
+- `23 Nov` [🌍 Mahsulotingizni xorijga olib çiqmoqçisiz, ammo qaysi bozorni tanlaş va nimadan boşlaşni bilmayapsizmi?](https://t.me/startupbaseuz/9383)
 - `20 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9380)
 - `20 Nov` [☁️ Alibaba Cloud’dan QwenWork platformasi böyiça bepul onlayn vorkshop!](https://t.me/startupbaseuz/9377)
 - `20 Nov` [🇬🇧 Global tarmoq, yangi imkoniyatlar: Özbekiston Global Tech Advocates xaritasiga kirmoqda](https://t.me/startupbaseuz/9375)
-- `19 Nov` [⚡️ Özbekiston va Qozoğiston startaplari Alibaba Cloud’dan jami $40 000 miqdorida SI-kreditlar oldi!](https://t.me/startupbaseuz/9373)
-- `19 Nov` [🇦🇿 IT Park Uzbekistan va Parvaz Studio örtasida hamkorlik memorandumi imzolandi](https://t.me/startupbaseuz/9371)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
