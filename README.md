@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `25 Nov` [More reasons for you to look for Uzbekistan in this turbulent World!](https://t.me/startupbaseuz/9430)
+- `25 Nov` [🔥 Techstars Startup Week Toşkent — 2️⃣ kun davom etmoqda!](https://t.me/startupbaseuz/9429)
 - `25 Nov` [🔥 48 soatda prototip yarating va 16 mln sömlik sovrin jamğarmasi uçun bellaşing!](https://t.me/startupbaseuz/9426)
 - `24 Nov` [Techstars Startup Week Toşkent doirasida “Government as a Customer: What the New Startup Law Means for Business”…](https://t.me/startupbaseuz/9420)
 - `24 Nov` [🚀 Qarşi davlat universitetida AI-startap loyihalari taqdim etildi](https://t.me/startupbaseuz/9408)
-- `24 Nov` [🇬🇧 Londonda Özbekiston va Qozoğistonning qöşma Eurasia Growth Hub markazi işga tuşirildi](https://t.me/startupbaseuz/9399)
-- `24 Nov` [Techstars Startup Week Toşkent doirasida “Beyond B2C: Corporates & Government as a Customer” mavzusida panel…](https://t.me/startupbaseuz/9395)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
