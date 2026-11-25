@@ -30,6 +30,7 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `25 Nov` [🔥 48 soatda prototip yarating va 16 mln sömlik sovrin jamğarmasi uçun bellaşing!](https://t.me/startupbaseuz/9426)
 - `24 Nov` [Techstars Startup Week Toşkent doirasida “Government as a Customer: What the New Startup Law Means for Business”…](https://t.me/startupbaseuz/9420)
 - `24 Nov` [🚀 Qarşi davlat universitetida AI-startap loyihalari taqdim etildi](https://t.me/startupbaseuz/9408)
 - `24 Nov` [🇬🇧 Londonda Özbekiston va Qozoğistonning qöşma Eurasia Growth Hub markazi işga tuşirildi](https://t.me/startupbaseuz/9399)
