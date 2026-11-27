@@ -30,11 +30,11 @@ StartupBase brings together promising startups, their founders, partners and inv
 </p>
 
 <!-- TELEGRAM:START -->
+- `27 Nov` [📰 Özbekiston va jahon texnologiyalar olamida nimalar bölyapti?](https://t.me/startupbaseuz/9439)
 - `26 Nov` [🇬🇧 IT Park Uzbekistan Londonda töqqizta özbek startapi bilan davra suhbati ötkazdi](https://t.me/startupbaseuz/9433)
 - `26 Nov` [🌱 300+ ariza, 16 ta startap — Agrobank korporativ akseleratorining ilk mavsumi boşlandi!](https://t.me/startupbaseuz/9432)
 - `25 Nov` [More reasons for you to look for Uzbekistan in this turbulent World!](https://t.me/startupbaseuz/9430)
 - `25 Nov` [🔥 Techstars Startup Week Toşkent — 2️⃣ kun davom etmoqda!](https://t.me/startupbaseuz/9429)
-- `25 Nov` [🔥 48 soatda prototip yarating va 16 mln sömlik sovrin jamğarmasi uçun bellaşing!](https://t.me/startupbaseuz/9426)
 <!-- TELEGRAM:END -->
 
 <p align="center"><sub>Have a question? Write to <a href="mailto:info@startupbase.uz">info@startupbase.uz</a></sub></p>
